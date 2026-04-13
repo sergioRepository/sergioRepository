@@ -2,9 +2,10 @@
   <img src="aspirante-removebg-preview.png">
 </p>
 
+<img align="right" width="400" src="maquina.jpeg"/>
 <div>
 
-<img align="right" width="400" src="maquina.jpeg"/>
+
 
 <h2> / sobre mí /</h2>
 

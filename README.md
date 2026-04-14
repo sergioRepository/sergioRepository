@@ -122,5 +122,5 @@ $ grep -r "metas" ~/life/goals.txt
 [ ] 📜  Certificación CompTIA Security+ / CEH
 ```
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2000&pause=800&color=00FF41&background=0D1117&center=true&vCenter=true&width=750&height=140&lines=$+sudo+scan+perfil_sergio;$+analizando...;$+perfil+analizado+✔;$+amenaza+detectada:+ninguna;$+estado:+seguro+🔒" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2000&pause=800&color=00FF41&background=0D1117&center=true&vCenter=true&width=750&height=140&lines=%24%20sudo%20scan%20perfil_sergio;%24%20analizando...;%24%20perfil%20analizado%20%E2%9C%94;%24%20amenaza%20detectada:%20ninguna;%24%20estado:%20seguro%20%F0%9F%94%92" alt="Typing SVG" />
 </div>

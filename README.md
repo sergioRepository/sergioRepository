@@ -67,7 +67,6 @@ $ nmap -sV skills.sergio.dev
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![VPN](https://img.shields.io/badge/VPN_Config-00C8FF?style=for-the-badge&logo=openvpn&logoColor=white)
 ![Networking](https://img.shields.io/badge/Redes_TCP/IP-0D1117?style=for-the-badge&logo=cisco&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)

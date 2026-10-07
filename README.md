@@ -1,125 +1,187 @@
 <div align="center">
-<!-- ANTIVIRUS BOOT SEQUENCE -->
-<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=550&pause=70&color=00FF41&background=0D1117&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=260&lines=%5BBOOTING+SECURITY+MODULES%5D...;%5BSYSTEM+SCAN+INITIATED%5D+.......+OK;%E2%96%BA+Analizando+el+estado+de+seguridad+del+sistema...;%E2%96%BA+Verificando+integridad+y+protecci%C3%B3n+del+dispositivo...;%E2%96%BA+Evaluando+posibles+amenazas+en+segundo+plano...;%E2%96%BA+Comprobando+actualizaciones+de+seguridad...;%E2%96%BA+Revisando+configuraciones+de+protecci%C3%B3n...;%5B%E2%9C%94%5D+No+se+detectaron+amenazas.;%5B%E2%9C%94%5D+Sistema+protegido.;root%40sergio%3A~%24+sudo+access+--grant;%5BACCESS+GRANTED%5D;%3E+Inicializando+perfil...;%3E+Soy+Sergio+Fl%C3%B3rez;%3E+Analista+de+Seguridad+%26+Backend+Developer;%3E+Bienvenido+a+mi+entorno+seguro+_" alt="hacker-mode"/>
+<img src="assets/banner.svg" width="100%" alt="Sergio Daniel Flórez — Junior Backend Developer & Tecnólogo en Sistemas Informáticos. Desarrollo de soluciones de software eficientes y seguras, con enfoque en backend, bases de datos, automatización y ciberseguridad." />
 
-</div>
+<br/>
 
-<!-- SHIELD / LOGO -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=00C8FF&background=0D1117&center=true&vCenter=true&width=700&height=120&lines=Soy+Sergio+Fl%C3%B3rez;Aspirante+a+Analista+de+Ciberseguridad;%26+Backend+Developer" alt="Typing SVG" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=22d3ee)](https://linkedin.com/in/sergio-florez-129401329/)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=4ade80)](https://github.com/sergioRepository)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=a78bfa)](mailto:sergioflorez422@gmail.com)
+
 </div>
 
 <br/>
 
-<!-- Social badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com)
+<img src="assets/h-01-sobre-mi.svg" width="100%" alt="Sobre mí" />
 
-</div>
+Tecnólogo en Desarrollo de Sistemas Informáticos y Desarrollador Backend Junior especializado en el diseño, desarrollo y mantenimiento de soluciones de software eficientes y seguras.
 
+Cuento con conocimientos en **Python, Java, Spring Boot, SQL y MySQL**, además de formación técnica en **ciberseguridad**, automatización de procesos con **n8n** y desarrollo intensivo. También tengo experiencia en soporte TIC, redes, configuración de VPN, MikroTik y control de versiones con Git/GitHub.
 
-## 👤 `./SOBRE MI`
+Me caracterizo por la **resolución de problemas, adaptabilidad, trabajo en equipo, atención al usuario y comunicación efectiva**.
 
-```bash
-$ cat about.txt
-```
+<br/>
 
-- 💻 Aspirante a analista de ciberseguridad & desarrollador backend
-- 🎓 Estudiante de Ingeniería de Sistemas · Tecnólogo Graduado
-- 🔐 Apasionado por la ciberseguridad, redes y programación segura
-- ⚡ Fuerte en Java y resolución de problemas complejos
-- 🚀 Construyendo mi camino hacia mi primer empleo en tecnología
+<img src="assets/h-02-tecnologias.svg" width="100%" alt="Tecnologías y habilidades" />
 
----
+### Backend y bases de datos
 
-## 🧠 `./mentalidad --list`
-
-<div align="center">
-
-| 🧠 Analítico | 🔍 Curioso | 🧱 Persistente | ⚠️ Orientado al propósito |
-|:---:|:---:|:---:|:---:|
-| Descompongo problemas en partes | Siempre pregunto el porqué | No me detengo ante los obstáculos | Aprendo con intención |
-
-</div>
-
----
-
-## 🛠️ `./skills --scan`
-
-```bash
-$ nmap -sV skills.sergio.dev
-```
-
-### 🖥️ Lenguajes
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-</div>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 📡 Herramientas & Tecnologías
+### Infraestructura, redes y seguridad
 
-<div align="center">
+![Soporte TIC](https://img.shields.io/badge/Soporte%20TIC-0d1117?style=for-the-badge)
+![Mantenimiento de sistemas](https://img.shields.io/badge/Mantenimiento%20de%20sistemas-0d1117?style=for-the-badge)
+![Redes](https://img.shields.io/badge/Redes-0d1117?style=for-the-badge)
+![MikroTik](https://img.shields.io/badge/MikroTik-0d1117?style=for-the-badge)
+![Configuración de VPN](https://img.shields.io/badge/Configuraci%C3%B3n%20de%20VPN-0d1117?style=for-the-badge)
+![Ciberseguridad](https://img.shields.io/badge/Ciberseguridad-0d1117?style=for-the-badge)
+![Wire Tracer](https://img.shields.io/badge/Wire%20Tracer-0d1117?style=for-the-badge)
+
+### Herramientas y automatización
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VPN](https://img.shields.io/badge/VPN_Config-00C8FF?style=for-the-badge&logo=openvpn&logoColor=white)
-![Networking](https://img.shields.io/badge/Redes_TCP/IP-0D1117?style=for-the-badge&logo=cisco&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
-</div>
+<br/>
 
-### 🔄 Actualmente aprendiendo
+<img src="assets/h-03-proyectos.svg" width="100%" alt="Proyectos destacados" />
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### TalentFlow AI
+
+Diseño de una arquitectura híbrida para automatización y procesamiento de información, con workflows en n8n, análisis mediante Google Gemini y persistencia relacional para trazabilidad transaccional.
+
+**Tecnologías**
+
+![n8n](https://img.shields.io/badge/n8n-0d1117?style=flat-square) ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-0d1117?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square)
+
+**Aporte**
+
+Diseño de la arquitectura híbrida.
+
+**Enlaces**
+
+[Ver repositorio](https://github.com/yuritrojasmantilla/TalentFlow_AI-YuritzaRojas-SergioFlorez)
+
+</td>
+<td width="33%" valign="top">
+
+### AcmeSchool
+
+Aplicación web cliente con módulos público y privado, autenticación, persistencia de información en el navegador, temporizador para cuestionarios y control de sesión activa.
+
+**Tecnologías**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square) ![localStorage](https://img.shields.io/badge/localStorage-0d1117?style=flat-square) ![sessionStorage](https://img.shields.io/badge/sessionStorage-0d1117?style=flat-square)
+
+**Aporte**
+
+Desarrollo de la aplicación web cliente.
+
+**Enlaces**
+
+[Ver repositorio](https://github.com/DavidNavas898/Escuela-Acme)
+
+</td>
+<td width="33%" valign="top">
+
+### Costodev SyM
+
+Maquetación web modular y semántica con diseño adaptativo, utilizando Flexbox, CSS Grid, Media Queries y un menú hamburguesa implementado con CSS puro.
+
+**Tecnologías**
+
+![HTML](https://img.shields.io/badge/HTML-0d1117?style=flat-square) ![CSS](https://img.shields.io/badge/CSS-0d1117?style=flat-square) ![Flexbox](https://img.shields.io/badge/Flexbox-0d1117?style=flat-square) ![CSS Grid](https://img.shields.io/badge/CSS%20Grid-0d1117?style=flat-square) ![Media Queries](https://img.shields.io/badge/Media%20Queries-0d1117?style=flat-square)
+
+**Aporte**
+
+Maquetación web modular y semántica.
+
+**Enlaces**
+
+[Ver repositorio](https://github.com/CastroMariaJ/costdev)
+
+</td>
+</tr>
+</table>
+
+
+
+<br/>
+
+<img src="assets/h-04-experiencia.svg" width="100%" alt="Experiencia profesional" />
+
+### Auxiliar de Sistemas / Practicante TIC
+**LA MUELA S.A.S · Bucaramanga, Santander**  
+**Marzo 2024 – Agosto 2024**
+
+- Optimización del rendimiento y seguridad de la red corporativa mediante el mapeo de cableado estructurado con **wire tracer**.
+- Implementación de conexiones **VPN** para acceso remoto seguro.
+- Administración y actualización de plataformas de ciberseguridad corporativa.
+- Instalación y configuración de antivirus en el **100 % de los equipos**.
+- Diseño e impartición de un programa de concientización en ciberseguridad dirigido al personal.
+- Soporte técnico preventivo y correctivo de hardware y software a **más de 50 usuarios**.
+
+<br/>
+
+<img src="assets/h-05-formacion.svg" width="100%" alt="Formación académica" />
+
+### Campusland
+**Febrero 2026 – Presente**  
+Formación intensiva en desarrollo de software y programación backend.
+
+### Ingeniería de Sistemas
+**2025 – Presente**
+
+### Tecnología en Desarrollo de Sistemas Informáticos
+**2021 – 2025**  
+**Unidades Tecnológicas de Santander (UTS) · Bucaramanga, Santander**
+
+<br/>
+
+<img src="assets/h-06-certificaciones.svg" width="100%" alt="Certificaciones" />
+
+- **Introduction to Cybersecurity** · Cisco Networking Academy · Agosto 2026
+- **SQL (Basic) Certificate** · HackerRank · Agosto 2026
+- **Python Hacking: Ciberseguridad y Hacking Ético con Python** · Udemy · Enero 2026
+- **Bootcamp de Ciberseguridad Básico** · Talento Tech, Bucaramanga · Agosto 2025
+
+<br/>
+
+<img src="assets/h-07-idiomas.svg" width="100%" alt="Idiomas" />
+
+- **Español:** Nativo
+- **Inglés:** Técnico, lectura y comprensión de documentación
+
+<br/>
+
+<img src="assets/h-08-contacto.svg" width="100%" alt="Contacto" />
+
+**Bucaramanga, Santander, Colombia**  
+**Teléfono:** +57 3142738437  
+**Correo:** [sergioflorez422@gmail.com](mailto:sergioflorez422@gmail.com)  
+**LinkedIn:** [linkedin.com/in/sergio-florez-129401329/](https://linkedin.com/in/sergio-florez-129401329/)  
+**GitHub:** [github.com/sergioRepository](https://github.com/sergioRepository)
+
+### Hoja de vida
+
+[![Descargar hoja de vida](https://img.shields.io/badge/Descargar%20hoja%20de%20vida-PDF-0d1117?style=for-the-badge&logo=adobeacrobatreader&logoColor=22d3ee)](https://drive.google.com/file/d/1ymfT4IY4HbMxQ7Zt03vv3klHFv78Vozf/view)
+
+
+
+<br/>
 
 <div align="center">
 
-![Cybersecurity](https://img.shields.io/badge/Ciberseguridad-FF0040?style=for-the-badge&logo=hackthebox&logoColor=white)
-![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-00FF41?style=for-the-badge&logo=kalilinux&logoColor=black)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<img src="assets/footer.svg" width="100%" alt="Junior Backend Developer · Tecnólogo en Sistemas Informáticos" />
 
-</div>
-
----
-
-## 💼 `./experience --verbose`
-
-```bash
-$ cat /var/log/experience.log
-```
-
-<div align="left">
-
-### 🏢 Practicante TIC — **LA MUELA S.A.S**
-
-```
-[INFO] Mapeo de cableado estructurado .................. ✔ COMPLETADO
-[INFO] Configuración e instalación de VPN .............. ✔ COMPLETADO
-[INFO] Despliegue de antivirus en equipos .............. ✔ COMPLETADO
-[INFO] Mantenimiento de hardware y software ............ ✔ COMPLETADO
-[INFO] Capacitación en conciencia de ciberseguridad .... ✔ COMPLETADO
-```
-
-</div>
-
----
-
-## 🎯 `./objetivos --status`
-
-```bash
-$ grep -r "metas" ~/life/goals.txt
-```
-
-```
-[ ] 🎯  Conseguir mi primer empleo en ciberseguridad
-[ ] 🧑‍💻  Mejorar mis habilidades en desarrollo backend
-[ ] 🔐  Especializarme en ethical hacking y análisis de seguridad
-[ ] 📜  Certificación CompTIA Security+ / CEH
-```
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2000&pause=800&color=00FF41&background=0D1117&center=true&vCenter=true&width=750&height=140&lines=%24%20sudo%20scan%20perfil_sergio;%24%20analizando...;%24%20perfil%20analizado%20%E2%9C%94;%24%20amenaza%20detectada:%20ninguna;%24%20estado:%20seguro%20%F0%9F%94%92" alt="Typing SVG" />
 </div>
